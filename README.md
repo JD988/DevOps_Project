@@ -1,5 +1,5 @@
 # DevOps_Project
-##Repositorio de proyectos de DevOps
+## Repositorio de proyectos de DevOps
 
 Proyecto secuencial de herramientas de DevOps, con el objetivo de adquirir experiencia en el campo.
 Es un trabajo que consta de varias partes, cada una con una herramienta diferente.
