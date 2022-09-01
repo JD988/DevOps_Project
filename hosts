@@ -6,7 +6,8 @@
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 
-172.16.1.50 control
-172.16.1.51 node1
-172.16.1.52 node2
-172.16.1.53 node3
+# Direcciones IP de las VM creadas:
+192.168.56.200 control
+192.168.56.201 nodo1
+192.168.56.202 nodo2
+192.168.56.203 nodo3
